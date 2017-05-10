@@ -33,7 +33,7 @@ svg {
   text-shadow: 0 0 50px red;
   opacity: 0;
   animation: draw-message 2s linear 10s forwards;
-  padding: 20px;
+  padding-right: 10vw;
 }
 
 .message span {
